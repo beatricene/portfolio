@@ -322,7 +322,7 @@ header {
 }
 
 .content-wrap-project1 img {
-  max-width: 850px;
+  max-width: 60%;
   padding-top: 80px;
   display: block;
   margin-left: auto;
@@ -357,7 +357,7 @@ header {
 }
 
 .content-wrap-project2 img {
-  max-width: 850px;
+  max-width: 60%;
   padding-top: 80px;
   display: block;
   margin-left: auto;
@@ -377,7 +377,7 @@ header {
 }
 
 .content-wrap-project3 img {
-  max-width: 850px;
+  max-width: 60%;
   padding-top: 80px;
   display: block;
   margin-left: auto;
@@ -414,7 +414,7 @@ header {
 }
 
 .content-wrap-project4 img {
-  max-width: 850px;
+  max-width: 60%;
   padding-top: 80px;
   display: block;
   margin-left: auto;
